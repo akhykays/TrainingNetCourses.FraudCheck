@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Tests/">
+    <Project Path="../TrainingNetCourses.FraudCheck.IntegrationTests/TrainingNetCourses.FraudCheck.IntegrationTests.csproj" Id="22824ad4-5060-4fbb-81d4-48bcc78acfca" />
+    <Project Path="../TrainingNetCourses.FraudCheck.UnitTests/TrainingNetCourses.FraudCheck.UnitTests.csproj" Id="830762d1-97c6-4ea4-8dc1-af8a8fa9ad57" />
+  </Folder>
   <Project Path="TrainingNetCourses.FraudCheck.csproj" />
 </Solution>

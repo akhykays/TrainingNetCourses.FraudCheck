@@ -1,6 +1,0 @@
-@TrainingNetCourses.FraudCheck_HostAddress = http://localhost:5160
-
-GET {{TrainingNetCourses.FraudCheck_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
