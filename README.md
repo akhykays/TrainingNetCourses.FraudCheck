@@ -1,5 +1,5 @@
 # Test Technique — Développeur .NET
-## Peaksys / Cdiscount — Équipe Fraud Detection
+## Retail/E-Commerce — Équipe Fraud Detection
 
 ---
 
