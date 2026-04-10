@@ -1,6 +1,6 @@
 ﻿namespace TrainingNetCourses.FraudCheck.DTOs.Requests;
 
-public class OrderItemDto
+public record OrderItemDto
 {
     public required string ProductId { get; init; }
     public required string Name { get; init; }
