@@ -4,7 +4,7 @@ public record OrderScoreResponse(
     string OrderId,
     int Score,
     string Decision,
-    IReadOnlyList<TriggeredRules> TriggeredRules,
+    IReadOnlyList<TriggeredRule> TriggeredRules,
     DateTime ProcessedAt
     );
 
