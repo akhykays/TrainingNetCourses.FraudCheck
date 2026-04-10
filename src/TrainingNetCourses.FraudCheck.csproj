@@ -11,9 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="Models\" />
+    <Folder Include="Endpoints\" />
     <Folder Include="Repositories\" />
     <Folder Include="Services\" />
     <Folder Include="Rules\" />
